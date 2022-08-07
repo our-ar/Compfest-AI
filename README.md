@@ -2,6 +2,6 @@
 Repositori kegiatan compfest AI 
 
 Team :
-Adam Ramdan
-Fika Nuraeni
-Satria Dafa H
+<p>Adam Ramdan</p>
+<p>Fika Nuraeni</p>
+<p>Satria Dafa H</p>
